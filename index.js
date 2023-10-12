@@ -25,6 +25,7 @@ const initializeDBAndServer = async () => {
     process.exit(1);
   }
 };
+
 initializeDBAndServer();
 
 // Get Books API
